@@ -1,5 +1,5 @@
 # flaskTut
-Flask CRUD Application
--Functioning Login/Registration
--Seperate Admin and User Dashboard/Abilities
--Database manipulation
+Flask CRUD Application<br>
+-Functioning Login/Registration<br>
+-Seperate Admin and User Dashboard/Abilities<br>
+-Database manipulation<br>
